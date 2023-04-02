@@ -68,7 +68,13 @@ p {
 
 .focus-text {
     display: block;
-    font-weight: bold;
+    font-weight: 900;
+}
+
+.focus-text, 
+.name,
+time {
+    color: #99D930;
 }
 
 /* .focus-text::before { content: '\A'; white-space: pre; } */
