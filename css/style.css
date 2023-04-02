@@ -20,6 +20,15 @@ body {
     background-color: #eaf9ff;
 }
 
+.black-n-white {
+    background-color: #252525;
+    color: #FFF;
+}
+.about-me.black-n-white {
+    background-color: #FFF;
+    color: #252525;
+}
+
 .container {
     width: 570px;
     margin: 0px auto;
