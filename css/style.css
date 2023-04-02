@@ -84,3 +84,21 @@ a {
 a:hover, a:focus {
     color: #131313;
 }
+
+/* Buttons */
+.btn {
+    display: inline-block;
+    background-color: #99D930;
+    color: #252525;
+    margin-top: 25px;
+    padding: 10px 25px;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: #252525;
+    color: #fff;
+    outline: 1px solid white;
+}
