@@ -11,3 +11,13 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
+# Tips
+
+- Make text to break a line using `display:block`
+[How to Add a Line-Break to an HTML Element Using CSS Only](https://www.designcise.com/web/tutorial/how-to-add-a-line-break-to-an-html-element-using-css-only)
+
+- When changing `a:hover` also change `a:focus` too.
+
+- Add border to buttons but not increasing width:
+https://stackoverflow.com/questions/3254587/when-1-px-border-is-added-to-div-div-size-increases-dont-want-to-do-that
