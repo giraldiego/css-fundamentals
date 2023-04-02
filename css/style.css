@@ -66,12 +66,12 @@ p {
     font-size: 16px;
 }
 
-.focus-text {
+.accent-text {
     display: block;
     font-weight: 900;
 }
 
-.focus-text, 
+.accent-text, 
 .name,
 time {
     color: #99D930;
@@ -79,11 +79,11 @@ time {
 
 /* .focus-text::before { content: '\A'; white-space: pre; } */
 
-h1 .focus-text{
+h1 .accent-text{
     font-size: 80px;
 }
 
-h2 .focus-text{
+h2 .accent-text{
     margin-top:0;
     font-size: 60px;
 }
