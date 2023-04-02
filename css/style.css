@@ -5,6 +5,20 @@ body {
     font-weight: 300;
 }
 
+.color-section {
+    padding: 100px 0px;
+}
+
+.color-section--top {
+    background-color: #d7d7d7;
+}
+.color-section--mid {
+    background-color: #ffeaea;
+}
+.color-section--bottom {
+    background-color: #eaf9ff;
+}
+
 .container {
     width: 570px;
     margin: 0px auto;
