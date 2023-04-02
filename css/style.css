@@ -10,7 +10,7 @@ body {
     padding: 100px 0px;
 }
 
-.hello {
+header {
     background-color: #d7d7d7;
 }
 .about-me {
@@ -23,10 +23,6 @@ body {
 .black-n-white {
     background-color: #252525;
     color: #FFF;
-}
-.about-me.black-n-white {
-    background-color: #FFF;
-    color: #252525;
 }
 
 .container {
