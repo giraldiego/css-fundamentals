@@ -1,9 +1,9 @@
 body {
     margin: 0;
-    text-align: center;
     font-family: 'Roboto', sans-serif;
     font-size: 21px;
     font-weight: 300;
+    text-align: center;
 }
 
 header {
@@ -87,13 +87,24 @@ a:hover, a:focus {
 
 /* Buttons */
 .btn {
+    /* display */
     display: inline-block;
+
+    /* positioning */
+
+    /* box-model */
     background-color: #99D930;
-    color: #252525;
     margin-top: 25px;
     padding: 10px 25px;
+
+    /* typography */
+    color: #252525;
+    
+    /* manipulation */
     text-decoration: none;
     text-transform: capitalize;
+    
+    /* misc */
 }
 
 .btn:hover,
