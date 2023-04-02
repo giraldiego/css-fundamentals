@@ -68,12 +68,12 @@ p {
 
 .accent-text {
     display: block;
-    font-weight: 900;
 }
 
 .accent-text, 
 .name,
 time {
+    font-weight: 900;
     color: #99D930;
 }
 
@@ -123,5 +123,10 @@ a:hover, a:focus {
 .btn:focus {
     background-color: #252525;
     color: #fff;
-    outline: 1px solid white;
+}
+
+.inverse .btn:hover,
+.inverse .btn:focus {
+    background-color: #fff;
+    color: #252525;
 }
