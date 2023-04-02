@@ -28,3 +28,27 @@ h3 {
 .small-text {
     font-size: 16px;
 }
+
+.focus-text {
+    display: block;
+    font-weight: bold;
+}
+
+/* .focus-text::before { content: '\A'; white-space: pre; } */
+
+h1 .focus-text{
+    font-size: 80px;
+}
+
+h2 .focus-text{
+    font-size: 60px;
+}
+
+a {
+    color: #99d930;
+    font-weight: bold;
+}
+
+a:hover, a:focus {
+    color: #131313;
+}
