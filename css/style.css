@@ -6,13 +6,14 @@ body {
     font-weight: 300;
 }
 
+header {
+    background-color: #d7d7d7;
+}
+
 .color-section {
     padding: 100px 0px;
 }
 
-header {
-    background-color: #d7d7d7;
-}
 .about-me {
     background-color: #ffeaea;
 }
